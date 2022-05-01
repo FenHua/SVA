@@ -1,0 +1,1 @@
+python untargeted_train.py --model_name lrcn --dataset_name ucf101 --gpus 0  --train_num 20
