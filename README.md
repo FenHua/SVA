@@ -20,7 +20,7 @@ You can train the recognition model with your own data, and use the video attack
 
 
 
-**The complete project will be updated soon.**
+**More detailed settings will be updated soon.**
 
 If you find some contents useful for your research, please cite:
 
