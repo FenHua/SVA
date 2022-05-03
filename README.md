@@ -1,5 +1,5 @@
 # SVA
-black-box video attack；video attack with reinforcement learning
+Black-box video attack；Video attack with reinforcement learning；SVA
 
 Code for paper " [Sparse Black-box Video Attack with Reinforcement](https://arxiv.org/abs/2001.03754)"
 
