@@ -30,7 +30,6 @@ dataset_name = args.dataset_name     # dataset
 NUM = args.train_num                 # the number of training samples
 image_models = ['resnet50']
 max_epoch = 20                       # 20
-
 # ---------------------------start-----------------------------------------------
 print('load {} dataset'.format(dataset_name))
 test_data = generate_dataset(model_name, dataset_name)  # dataset setting
